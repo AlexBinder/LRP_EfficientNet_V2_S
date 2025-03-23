@@ -7,6 +7,8 @@ Something does not work, email me to my institutional email (Magdeburg, Leipzig)
 Bugs ? Can be. The forward pass seems to have a minor discrepancy, likely causing the upper left corner artefact. If you know how to fix it, tell me. 
 
 Software version this was tested on:
+
+```
 python3
 Python 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -16,3 +18,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> torchvision.__version__
 '0.21.0+cpu'
 >>> exit()
+```
