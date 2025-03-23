@@ -6,6 +6,8 @@ Something does not work, email me to my institutional email (Magdeburg, Leipzig)
 
 Bugs ? Can be. The forward pass seems to have a minor discrepancy, likely causing the upper left corner artefact. If you know how to fix it, tell me. 
 
+In case of any confusion from Sanity checks, please see [here](https://openaccess.thecvf.com/content/CVPR2023/html/Binder_Shortcomings_of_Top-Down_Randomization-Based_Sanity_Checks_for_Evaluations_of_Deep_CVPR_2023_paper.html)
+
 Software version this was tested on:
 
 ```
